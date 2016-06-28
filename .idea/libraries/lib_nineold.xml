@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib_nineold">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dragsplitimage/libs/lib_nineold.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

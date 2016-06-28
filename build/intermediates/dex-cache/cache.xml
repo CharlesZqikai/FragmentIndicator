@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5678bc84daa0ad13d340e2188de3159d25349fc">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_933f1e2d766706e15b648c308db6c4b256340af2\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\libs\lib_nineold.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="969b02a7e3d8ff52dc14dfe8dfdbd636f96b2f62">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\2\lib_nineold_22c0c3a720563521576a410e450e3b178e40e1a0\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_1cb6b59764a4cacd1930f36f6adc2e230f48566c\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="196ad04e5f3cc333ad3d023e531ebfbad090e8a5">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_912b3f56134d082a2087d111a86da31a7b64f36f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_7b867d7ff72c2cda5f9c5d0c2cf4226dfb92df8a\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_ea5cae0801cfdd4d06d98a704056cf8b929fc779\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\GithubOpenSource\ApiDemos\ApiDemos\dragsplitimage\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_709e93ee3c6cdc06bd1cd4712746a696d5110279\classes.dex" />
+    </item>
+
+</items>
